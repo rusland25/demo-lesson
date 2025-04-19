@@ -3,4 +3,3 @@ Next step i will learn to pull new files
 
 After pulling(that is combination of fetch and smth) i will use GIT GUI
 
-qwerbad
